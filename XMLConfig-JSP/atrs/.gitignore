@@ -1,0 +1,7 @@
+.project
+.settings
+.factorypath
+target
+*.doc*
+*.ppt*
+*.xls*
